@@ -32,7 +32,7 @@ The three fields are mandatory and can not be blank. If you find a wrong value w
 
 **Challenge 2**
 
-Lets assume we are an online marketing company. We got some new requirment to capture phone numbers of our customers every customer can have many phone numbers (1 customer : N phone numbers) and we need following 3 APIs from backend team:
+Lets assume we are an online marketing company. We got some new requirment to capture phone numbers of our customers every customer can have many phone numbers (1 customer : N phone numbers) and we need following 2 APIs from backend team:
 Get all phone numbers
 Get all phone numbers of a single customer
 
